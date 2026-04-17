@@ -1,0 +1,4 @@
+name = "bot-collagi"
+main = "bot.py" # или тот файл, где у тебя основной запуск
+compatibility_date = "2024-04-01"
+compatibility_flags = ["python_workers"]
